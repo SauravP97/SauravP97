@@ -1,7 +1,11 @@
 ### Hey, I'm Saurav [srvptk97][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sauravp97.github.io)
-[![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/saurav-prateek-7b2096140/)
+<a href="http://sauravp97.github.io">
+  <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=globe" href="">
+</a>
+<a href="https://www.linkedin.com/in/saurav-prateek-7b2096140/detail/recent-activity/posts/">
+    <img src="https://img.shields.io/badge/Saurav-Prateek-386938188?style=flat&logo=linkedin" href="">
+</a>
 
 ## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :P)
 
@@ -47,7 +51,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SauravP&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SauravP&show_icons=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40"" />
 
 </details>
 
