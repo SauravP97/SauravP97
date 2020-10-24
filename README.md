@@ -9,10 +9,10 @@
 
 ## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :grin:)
 
-- 🔭 You can view my System Design Articles here: [Systems that Scale][course]!
-- 🌱 I am currently working as an SDE 1 at GeeksforGeeks 
-- 🥅 Apart from that I do Open Source and Competitive Programming sometimes.
-- ⚡ I do Sketching and Painting as well !
+- :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale][course]!
+- :computer: I am currently working as an SDE 1 at GeeksforGeeks 
+- :checkered_flag: Apart from that I do Open Source and Competitive Programming sometimes.
+- :yellow_heart: I do Sketching and Painting as well !
 
 ### Connect with me:
 
