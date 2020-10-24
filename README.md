@@ -1,9 +1,9 @@
-### Hey, I'm Saurav [codeSTACKr][website] 👋
+### Hey, I'm Saurav [srvptk97][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sauravp97.github.io)
 [![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/saurav-prateek-7b2096140/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :P)
 
 - 🔭 You can view my System Design Articles here: [System that Scale][course]!
 - 🌱 I am currently working as an SDE 1 at GeeksforGeeks 
