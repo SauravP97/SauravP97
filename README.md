@@ -1,9 +1,9 @@
-### Hey, I'm Saurav [srvptk97][website] 👋
+### Hey, I'm Saurav Prateek 👋
 
 <a href="http://sauravp97.github.io">
   <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=globe" href="">
 </a>
-<a href="https://www.linkedin.com/in/saurav-prateek-7b2096140/detail/recent-activity/posts/">
+<a href="https://www.linkedin.com/in/saurav-prateek-7b2096140"
     <img src="https://img.shields.io/badge/Saurav-Prateek-386938188?style=flat&logo=linkedin" href="">
 </a>
 
