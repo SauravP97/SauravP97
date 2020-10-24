@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SauravP&show_icons=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
+  <img align="left" alt="Saurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SauravP97&show_icons=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
 
 </details>
 
