@@ -10,7 +10,7 @@
 ## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :grin:)
 
 - :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale][course]!
-- :computer: I am currently working as an SDE 1 at [<img alt="GfG" width="50px" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"][https://www.geeksforgeeks.org/] 
+- :computer: I am currently working as an SDE 1 at [<img alt="GfG" width="50px" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png">][https://www.geeksforgeeks.org/] 
 - :checkered_flag: Apart from that I do Open Source and Competitive Programming sometimes.
 - :yellow_heart: I do Sketching and Painting as well !
 
