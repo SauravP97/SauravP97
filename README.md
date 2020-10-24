@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Saurav-Prateek-386938188?style=flat&logo=linkedin" href="">
 </a>
 
-## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :P)
+## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :grin:)
 
 - 🔭 You can view my System Design Articles here: [Systems that Scale][course]!
 - 🌱 I am currently working as an SDE 1 at GeeksforGeeks 
