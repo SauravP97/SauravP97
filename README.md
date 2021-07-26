@@ -9,7 +9,7 @@
 
 ## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :grin:)
 
-- :computer: I am currently working as an Web Solutions Engineer at Google
+- :computer: I am currently working as a Web Solutions Engineer at Google
 - :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale][course]!
 - :checkered_flag: Apart from that I do Open Source and Competitive Programming sometimes.
 - :yellow_heart: I do Sketching and Painting as well !
