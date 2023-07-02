@@ -1,6 +1,6 @@
 ### Hey, I'm Saurav Prateek 👋
 
-<a href="http://systemsthatscale.in">
+<a href="https://www.systemsthatscale.in/">
   <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=globe" href="">
 </a>
 <a href="https://www.linkedin.com/in/saurav-prateek-7b2096140">
