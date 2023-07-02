@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Saurav-Prateek-386938188?style=flat&logo=linkedin" href="">
 </a>
 
-## I'm a Developer, Competitive Programmer, Blogger and an Artist (sometimes :grin:)
+## Hey Folks, I am a Software Engineer currently working full time at Google.
 
 - :computer: I am currently working as a Web Solutions Engineer at Google
 - :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale][course]!
