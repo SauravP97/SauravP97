@@ -1,6 +1,6 @@
 ### Hey, I'm Saurav Prateek 👋
 
-<a href="http://sauravp97.github.io">
+<a href="http://systemsthatscale.in">
   <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=globe" href="">
 </a>
 <a href="https://www.linkedin.com/in/saurav-prateek-7b2096140">
@@ -10,9 +10,9 @@
 ## I am a Software Engineer currently working full time at Google.
 
 - :computer: I am currently working as a Web Solutions Engineer at Google
-- :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale][course]!
-- :checkered_flag: Apart from that I do Open Source and Competitive Programming sometimes.
-- :yellow_heart: I do Sketching and Painting as well !
+- :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale](http://systemsthatscale.in)!
+- :yellow_heart: I also maintain an Engineering Newsletter "Systems That Scale" with 10,000+ Subscribers. [Check it Out!](https://www.linkedin.com/newsletters/6879018679527321600/)
+- :checkered_flag: Apart from that I do Open Source and Competitive Programming.
 
 ### Connect with me:
 
@@ -46,8 +46,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-  <img align="left" alt="Saurav's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SauravP97&show_icons=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&line_height=40" />
 
 [website]: https://sauravp97.github.io
 [course]: https://systemsthatscale.org
