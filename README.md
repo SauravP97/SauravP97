@@ -10,7 +10,7 @@
 ## I am a Software Engineer currently working full time at Google.
 
 - :computer: I am currently working as a Web Solutions Engineer at Google
-- :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale](http://systemsthatscale.in)!
+- :chart_with_upwards_trend: You can view my System Design Articles here: [Systems that Scale](https://www.systemsthatscale.in/)!
 - :yellow_heart: I also maintain an Engineering Newsletter "Systems That Scale" with 10,000+ Subscribers. [Check it Out!](https://www.linkedin.com/newsletters/6879018679527321600/)
 - :checkered_flag: Apart from that I do Open Source and Competitive Programming.
 
