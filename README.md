@@ -1,11 +1,13 @@
 ### Hi, I'm Saurav Prateek 👋
 
 <a href="https://sauravprateek.me" target=”_blank”>
-  <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=globe&color=darkgreen" href="">
+  <img src="https://img.shields.io/badge/Saurav-Portfolio-386938188?style=flat&logo=codeblocks&color=darkgreen" href="">
 </a>
 <a href="https://www.linkedin.com/in/saurav-prateek-7b2096140" target=”_blank”>
     <img src="https://img.shields.io/badge/Saurav-Prateek-386938188?style=flat&logo=linkedin&color=blue" href="">
 </a>
+
+<br>
 
 I am a Software Engineer currently working full time at Google.
 
